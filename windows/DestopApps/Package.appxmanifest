@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="f4b28758-e370-438c-9428-81d043c938b3"
+    Name="f35be61e-8cc3-4eb6-9ee2-e1ebb291c8b8"
     Publisher="CN=USER"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="f4b28758-e370-438c-9428-81d043c938b3" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="f35be61e-8cc3-4eb6-9ee2-e1ebb291c8b8" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>DestopApps</DisplayName>
